@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bcdata"]
+	path = bcdata
+	url = https://github.com/bcgov/bcdata
+	shallow = true
+	registered = true
+[submodule "bcmaps"]
+	path = bcmaps
+	url = https://github.com/bcgov/bcmaps
+	shallow = true
+	registered = true
+[submodule "fasstr"]
+	path = fasstr
+	url = https://github.com/bcgov/fasstr
+	shallow = true
+	registered = true
+[submodule "ssdtools"]
+	path = ssdtools
+	url = https://github.com/bcgov/ssdtools
+	shallow = true
+	registered = true
