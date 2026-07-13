@@ -1,0 +1,8 @@
+[
+  {
+    "package": "ssddata",
+    "url": "https://github.com/open-AIMS/ssddata",
+    "via": ["ssdtools"],
+    "from": "ssdtools"
+  }
+]
