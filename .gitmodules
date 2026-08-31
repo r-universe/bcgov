@@ -11,10 +11,6 @@
 [submodule "fasstr"]
 	path = fasstr
 	url = https://github.com/bcgov/fasstr
-[submodule "ssddata"]
-	path = ssddata
-	url = https://github.com/open-AIMS/ssddata
-	registered = false
 [submodule "ssdtools"]
 	path = ssdtools
 	url = https://github.com/bcgov/ssdtools
